@@ -8,7 +8,7 @@ Unity Programmer with 3 years of experience in game development. I’ve worked o
 - Crazy Delivery Guy | 
   [[Play Store Page]](https://play.google.com/store/apps/details?id=com.RAXYDev.CrazyDeliveryGuy&hl=en) |
   [[Repo]](https://github.com/RobyRAX/CrazyDeliveryGuy)
-- Project Alice – hack & slash RPG (WIP) | 
+- Project Alice – Hack & Slash RPG (WIP) | 
   [[itch.io Page]](https://raxydev.itch.io/project-alice) |
   [[Repo]](https://github.com/RobyRAX/Project-Alice)
 
