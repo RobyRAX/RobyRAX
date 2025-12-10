@@ -4,11 +4,11 @@ Unity Programmer with 3 years of experience in game development. I’ve worked o
 
 🎮 Highlighted Projects
 - Epic Conquest X – professional game title
-  [Play Store Page](https://play.google.com/store/apps/details?id=com.gacogames.epiconx&hl=en)
+[[Play Store Page]](https://play.google.com/store/apps/details?id=com.gacogames.epiconx&hl=en)
 - Crazy Delivery Guy – personal released project
-  [Play Store Page](https://play.google.com/store/apps/details?id=com.RAXYDev.CrazyDeliveryGuy&hl=en)
+[[Play Store Page]](https://play.google.com/store/apps/details?id=com.RAXYDev.CrazyDeliveryGuy&hl=en)
 - Project Alice – hack & slash RPG (WIP)
-  [itch.io Page](https://raxydev.itch.io/project-alice)
+[[itch.io Page]](https://raxydev.itch.io/project-alice)
 
 📫 Contact
 - Email: robyalexander571@gmail.com
